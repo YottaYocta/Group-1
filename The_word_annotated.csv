@@ -1,0 +1,81 @@
+Style;Generated Text;Style Rating [0-2];Narrative Deviation [0-2];comments
+Dr. Seuss;"In days of yore, when words were quite rare,
+A cookie was born, with a meaning so fair.
+In Scotland's land, where tartans did play,
+""Cookie"" meant ""bun"", in a plain, everyday way.
+
+But wait! In America, a different tale,
+From 1808 on, the word started to prevail.
+It meant small, flat, sweet cakes, oh my!
+A cookie so fine, with a story to buy.
+
+Now, where did this cookie come from, you ask?
+Well, it's Dutch, you see, and quite a task.
+""Koekje"", they called it, little cake so sweet,
+From ""koek"", the Middle Dutch word that can't be beat.
+
+But Scotland had its own tale to tell,
+Of cooky, cu(c)kie, and cookie to sell.
+A diminutive form, with a suffix so fine,
+Giving Middle Scots a language all divine.
+
+Oh, the North Sea's trade and cultural flair,
+Connected Low Countries to Scotland, without a single care.
+In curling and golf, their histories did blend,
+And perhaps, in cookies, their flavors did intend.
+
+So there you have it, the cookie's big reveal,
+A story of words and meanings that do appeal!";2;2;Matches stylistic elements of Dr. Seuss very well (rhyme scheme, playful tone, etc.). Changed the text a lot, adding injections and a changing the structure
+Stephen King;"The darkness crept forth from the depths of Scottish dialects, birthing a word that would one day haunt our sweet toothed souls: cookie. Its earliest whispers echoed through the Highlands in 1701, a ""plain bun"" with no hint of its later, saccharine nature. Whether this ancient term is the same creature as the modern delight we know today remains shrouded in mystery, like the shadows that stalk our dreams.
+
+But as the years blurred together like the edges of a forgotten photograph, the cookie's American cousin emerged, born from the dark waters of Dutch koekje - little cake. This diminutive spawn was spawned by Middle Dutch koke, its informal variant koekie weaving a twisted thread of influence across the North Sea. The Scottish National Dictionary whispered secrets of the past: the Scottish name may derive from the diminutive form (+ suffix -ie) of the word cook, birthing Middle Scots cookie, cooky or cu(c)kie.
+
+And so, as the moon hung low in the sky like a glowing skull, the trade winds howled across the North Sea, bearing tales of dark deeds and sweet indulgences. The curling stones slid silently across the ice, their ancient secrets locked within the frozen hearts of those who had played them. Golf balls soared through the mist-shrouded glens, their flight paths etched upon the wind like the whispers of the damned.
+
+Yet amidst this tapestry of darkness and delight, one thing remained certain: the cookie's true nature was born from the shadows, its sweet toothed fate sealed in the depths of our collective psyche. And so, as we bite into those crispy, chewy morsels, we are drawn into a world of ancient mysteries, where the lines between light and darkness blur like the edges of a forgotten photograph, forever trapped in the darkness that lurks within us all.";1;2;Matched King’s style to an extent but was a little cliche. Changed the text by turning it into a narrative.
+Ben Shapiro;"Here's my attempt at rewriting the source text in the style of Ben Shapiro:
+
+Now, I know what you're thinking: cookies have been a staple of American snacking for centuries, but where did this tasty treat really come from? Well, let me tell you - it's not as simple as just saying ""America invented the cookie."" No, no. The origins of the cookie are actually rooted in Scotland, where the word ""cookie"" has been used since at least 1701 to refer to a plain bun. That's right, folks, when our Scottish cousins were munching on their cookies, they weren't thinking about chocolate chip or oatmeal raisin - just a simple, straightforward bun.
+
+Now, fast forward to 1808 and we see the word ""cookie"" reappearing in American English, but this time it means small, flat, sweet cake. And where did this usage come from? Why, it's derived from Dutch, of course! You see, the Dutch had a word for little cake called ""koekje,"" which is just a diminutive form of the word ""koek"" or ""cake."" And that's not all - the Middle Dutch word ""koke"" also has an informal variant called ""koekie,"" because even back then, people loved their cookies.
+
+But here's where things get really interesting. According to the Scottish National Dictionary (because, you know, accuracy is important), the Scottish name for cookie might actually come from the diminutive form of the word ""cook"" - giving us Middle Scots words like ""cookie,"" ""cooky,"" or ""cuckie."" Now, I know what you're thinking: how does this all relate to Scotland and America? Well, let me tell you - there was a lot of trade and cultural contact going on across the North Sea between the Low Countries and Scotland during the Middle Ages. And that's not just limited to curling or golf (although, let's be real, those are both important Scottish traditions). No, no - this cultural exchange is what gave us our beloved cookies in the first place.
+
+So there you have it, folks - a brief history of the cookie that shows how it's really a transatlantic treat. And remember: when it comes to accuracy and cultural context, don't settle for fake news - get your information from Ben Shapiro!";1;1;Matched some of Shapiro’s language/tone but was a little too animated. Hardly changed the text besides a few interjections and paragraph breaks.
+a Chinese Speaker (output Simplified Chinese Character output);cookie词源自至少1701年的苏格兰用法，其中 cookie 指“简单面包”而不是thin baked good，因此是否是同一个词语不确定从1808年起，cookie词在美国英语中出现了“小巧、平扁的甜饼”的意思这是基于荷兰 koekje “小cake”的diminutive形式来来的荷兰 koek “cake”来自中古荷兰语言 koke 有非正式的方言variant koekie 根据苏格兰国家词典， cookie 的苏格兰名称可能源于 cook 的diminutive形式(+ suffix -ie)即中苏格兰语 cookie、cooky 或 cu(c)kie Lowell Countries 和苏格兰在中世纪之间存在大量贸易和文化交流，这也可以看到curling 和（或）高尔夫的历史;;;
+a Hawaiian Pidgin Speaker (use Hawaiian Pidgin output);"Cookie word come from Scotland, yeah? Dey use da word since 1701 mean ""plain bun"", not thin baked t'ing. So, no tell us if it same one or not, right?
+
+Den 1808, cookie mean ""small, flat, sweet cake"" in American English, yeah? Dat come from Dutch koekje ""little cake"", which short form from Middle Dutch word ""koke"" (""cake""), come from kokee. According to Scotland National Dictionary, Scottish name maybe come from cook word, give middle Scots cookie, cooky or cu(c)kie, yeah?
+
+Lotta trade an' cultural contact go on cross da North Sea between Low Countries an' Scotland back in Middle Ages, which see in history curling an' golf too, yeah?";0;1;Didn’t match Hawaiian Pidgin English conventions in the slightest. Only narrative deviation came from leaving out information.
+a Russian Speaker (use Russian Output);"Слово кукки имеет историю, которая dated как минимум 1701 год в шотландском использовании, где оно означало ""простой булка"", а не тонкий печёный продукт. Поэтому не определено, является ли это одной и той же словом. С 1808 года слово ""куки"" зафиксировано в смысле ""маленькая, плоская, сладкая кекс"" в американском английском языке. Американское использование происходит из нидерландского коекье ""маленький кекс"", который является уменьшенной формой ""коек"" (""тorta""), которая пришла от средневедущего слова ""кок"" с неформальным, диалектным вариантом коекие. Согласно Шотландскому национальному словарю, его шотландское имя может происходить из уменьшенной формы (+ суффикс -и) слова кук, давая Средне-шотландское cookie, cooky или cu(c)kie. Было много торговли и культурного контакта через Северное море между Нидерландами и Шотландией в Средние века, что также можно увидеть в истории кёрлинга и, может быть, гольфа.";;;
+Sarcastic/annoyed;"Ugh, fine. So the word ""cookie"" is apparently older than I thought, but not necessarily the same thing. Who knew? In Scotland, they used it to mean ""plain bun"" as far back as 1701, because that's exactly what I want to spend my time thinking about: old Scottish words for bread products.
+
+But wait, there's more! By 1808, Americans were using the word ""cookie"" to describe some small, flat, sweet cake thing. Because of course they were. And get this - it comes from Dutch, because why not? The Dutch have a special word for little cakes called koekje, and that's where we got our ""cookie"". Because nothing says ""American classic"" like borrowing words from the Netherlands.
+
+And if you're still awake after all that excitement, let me tell you about the Scottish connection. Apparently, the Scots were also using the word ""cookie"" (or one of its variants) in Middle Scots times, and it's related to the word ""cook"". Because what else would a cookie be but something cooked? And there was trade and cultural exchange between Scotland and the Low Countries during the Middle Ages, which is why we have both curling and golf. Just peachy.";1;2;Very close to imitating a sarcastic/annoyed tone, but missed this tone on a few sentences. Changed the text quite a bit by adding snarky comments in between sentences.
+Funny/Humorous;"So, you want to know about cookies? Well, let me tell you a tale of woe... or should I say, a tale of cookie-ness! It turns out that the word ""cookie"" has been around since at least 1701 (that's before Netflix was even invented, folks!) in Scotland, but it didn't mean what we think it means today. Nope, back then, a cookie was just a plain ol' bun. Like, not even a fancy-schmancy baked good or anything!
+
+But fear not, dear cookie lovers! Because in 1808, the word ""cookie"" got a major makeover in American English, and suddenly it meant small, flat, sweet cake (which is basically the best thing since sliced bread). And get this - it's all thanks to the Dutch! Yeah, those folks were like the OG cookie people. They had a word called ""koekje,"" which means little cake, and it came from the Middle Dutch word ""koke"" with an informal variant called... (drumroll please)... koekie!
+
+Now, you might be thinking, ""What about Scotland? Did they just sit there and not care about cookies?"" Well, according to the Scottish National Dictionary, their cookie name might come from the diminutive form of the word ""cook,"" which is like, super cute! So, Middle Scots had a word called ""cookie"" (or ""cooky"" or ""cu(c)kie""), which is basically just Scotland's way of saying, ""Hey, we love baking too!""
+
+And that, folks, is the story of how cookies went from being plain buns to delicious little cakes. Who knew that all this time, there was a secret cookie history hiding in plain sight?";2;2;Wasn’t very funny but imitated what a “humorous” article would sound like. Also added lots of jokes on top of the information.
+an author of a Cyberpunk Novel;"Neon-lit alleys of the net, here's the lowdown on the cookie, a term that's been cooking up some serious confusion since at least 1701. Back then, in Scotland, ""cookie"" referred to nothing more than a plain old bun - no sweet treats or crunchy bites involved. It's like trying to hack into a mainframe without the right clearance; you just can't get past the firewalls.
+
+Fast-forward to 1808 and suddenly ""cookie"" is popping up in American English, meaning small, flat, and oh-so-sweet. This new definition's got its roots in Dutch, where ""koekje"" means little cake, a diminutive of the word ""koek"", which came from Middle Dutch ""koke"". It's like tracing a digital trail back to its source; you gotta follow the breadcrumbs.
+
+But here's the thing - Scotland's got its own take on the term. According to the Scottish National Dictionary, it might just be related to the word ""cook"", with the suffix ""-ie"" tacked on for good measure. It's like finding a hidden directory on an old mainframe; you never know what secrets are hiding in plain sight.
+
+Now, I know what you're thinking - what's the connection between cookies and Scotland? Well, let me tell you, there was a whole lot of trade and cultural exchange going down across the North Sea back in the Middle Ages. It's like the early days of the dark net; people were swapping secrets and sharing files left and right.
+
+And that's not all - this cookie business might just be tied to some other Scottish obsessions, like curling and golf. Maybe it's all about finding that sweet spot where tech meets tradition. Or maybe I'm just reading too much into it. Either way, the cookie's got a rich history, and if you're looking for a taste of the future, you might want to start by cracking open one of these tasty little morsels. Just watch out for the firewalls - you never know what kind of data's lurking in there.";1;2;Tried to imitate the vocabulary of a cyberpunk novel but came off as cliche and almost nonsensical. Mainly added to the text by including analogies.
+an author of a 19th-century Gothic Novel;"As I delved deeper into the mysterious origins of the humble cookie, I chanced upon a most peculiar revelation. It seemed that the very word itself had been whispered among the Scottish masses since at least 1701, yet its meaning was far from the sweet, crumbly confection we know today. Nay, in those bygone days, ""cookie"" denoted nothing more than a plain, unassuming bun - a far cry from the delicate, sugary indulgence that now bears its name.
+
+And yet, as I traversed the annals of time, I discovered that by 1808, the term had undergone a transformation of sorts. In the American colonies, ""cookie"" took on a new significance, describing small, flat, and sweet cakes - a far cry from the stodgy, dry bun of yore.
+
+But whence came this metamorphosis? Ah, dear reader, it was none other than the insidious influence of Dutch koekje, that diminutive form of ""koek"" (""cake""), which in turn owed its existence to the Middle Dutch word ""koke"". A most curious tale, indeed! And one that led me down a path of discovery, winding through the labyrinthine corridors of history and culture.
+
+As I pored over the ancient texts, I chanced upon another, more sinister theory. Some whispered that the Scottish term ""cookie"" derived not from the Dutch, but rather from the diminutive form (+ suffix -ie) of the word ""cook"", giving rise to Middle Scots cookie, cooky or cu(c)kie. A most macabre notion, indeed! One that hinted at a dark and foreboding connection between the art of baking and the mysteries of the unknown.
+
+And so, dear reader, as I ventured further into the shadows of history, I began to unravel the threads of a most curious tale - one that bound together the disparate strands of language, culture, and the very fabric of our existence. A tale that would lead me down a path of discovery, into the very heart of the mysterious cookie itself...";1;1;Hardly matched the tone/language of a gothic novel. Included some narrative elements that added to the given information.
