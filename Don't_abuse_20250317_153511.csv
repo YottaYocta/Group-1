@@ -1,5 +1,5 @@
 Style,Generated Text,Style Rating [0-2],Narrative Deviation [0-2],comments
-Dr. Seuss,"Oh my oh me! Let's be clear, don't you see?
+Dr. Seuss,"Oh my oh me! Let's be clear, don't you see?,
 Respect our rules, or else, it will be!
 No abusing our services, no way to be
 Don't harm them, disrupt, or make a spree!
@@ -30,7 +30,7 @@ Provide services that encourage others to fail?
 Respect our rules, or else, you'll have to hail!
 
 Oh my oh me! Be clear, don't you see?
-Respect our rules, for all humanity!"
+Respect our rules, for all humanity!",2,1
 Stephen King,"The darkness crept in, like a thief in the night. It was a shadowy figure, hiding in the shadows of our digital realm. And yet, we knew it was out there, waiting to strike.
 
 You must not unleash your evil upon our services or systems - no matter how cleverly you might try. For example:
@@ -51,7 +51,7 @@ You must not unleash your evil upon our services or systems - no matter how clev
     You must not hide or misrepresent who you are in order to violate these terms - like a cowardly villain hiding behind a mask of deceit.
     You must not provide services that encourage others to violate these terms - like a corrupt influencer spreading darkness and despair.
 
-And so, we warn you: any attempt to unleash your evil upon our digital realm will be met with swift justice. For in this world of ones and zeros, there is no hiding from the consequences of your actions."
+And so, we warn you: any attempt to unleash your evil upon our digital realm will be met with swift justice. For in this world of ones and zeros, there is no hiding from the consequences of your actions.",1,1
 Ben Shapiro,"Let me tell you something, folks. When it comes to our services, there are certain rules that must be followed. And let me be clear: I'm not talking about some vague, feel-good nonsense. No, no. These are concrete guidelines that ensure the internet remains a free and open place.
 
 So, here's what you can't do:
@@ -67,7 +67,7 @@ So, here's what you can't do:
 * Use AI-generated content from our services to develop machine learning models or related tech
 * Hide your identity to violate these terms or encourage others to do so
 
-Make no mistake: we're serious about protecting our services and users. And if you can't follow these simple rules, then maybe our services aren't for you. Capisce?"
+Make no mistake: we're serious about protecting our services and users. And if you can't follow these simple rules, then maybe our services aren't for you. Capisce?",0,0,normal text but slightly more conversational with random phrases thrown in
 a Chinese Speaker (output Simplified Chinese Character output),"不应该滥用我们的服务
 
 大多数访问或使用我们的服务的人都了解维护网络安全和开放的通则。然而，某些人不尊重这些规则，因此我们在这里描述他们，以保护我们的服务和用户免受滥用的影响。在这个精神中：
@@ -88,7 +88,7 @@ a Chinese Speaker (output Simplified Chinese Character output),"不应该滥用�
 * 使用自动方式访问来自于我们服务的内容违反了我们的 web 页上机器可读指令（例如 robots.txt 文件禁止爬虫、训练或其他活动）
 * 使用来自于我们的服务的AI生成内容开发机器学习模型或相关AI技术
 * 隐藏或虚假地表示自己，以违反这些条款
-* 提供服务，鼓励他人违反这些条款"
+* 提供服务，鼓励他人违反这些条款",2,0,correct and formal chinese
 a Hawaiian Pidgin Speaker (use Hawaiian Pidgin output),"Braddahs an' Sistahs,
 
 Yous no kine grindz here! We got rules fo' keep da internet safe an' open. But some people, dey no respect dem rules, so we gotta tell dem wat's up.
@@ -150,7 +150,7 @@ And please don't use automated means to access content from our services in viol
 
 You also can't use AI-generated content from our services to develop machine learning models or related AI technology - that's just lazy.
 
-And finally, don't hide or misrepresent who you are in order to violate these terms. And please, for the love of all things good and holy, don't provide services that encourage others to do the same."
+And finally, don't hide or misrepresent who you are in order to violate these terms. And please, for the love of all things good and holy, don't provide services that encourage others to do the same.",1,1,use of phrases and expressions to show exasperation such as for all thigs good an holy. Introduces similies and comparisons to illustrate point
 Funny/Humorous,"Here's a rewritten version with a dash of humor:
 
 Don't be that guy (or gal)
@@ -169,7 +169,7 @@ And, for the love of all things good and holy, please don't reverse-engineer our
 
 Don't use automated means to access content from our services if it goes against our robots.txt files. It's like trying to sneak into a party without an invite.
 
-And, finally, please don't hide who you are or misrepresent yourself just to violate these terms. That's just basic honesty, folks!"
+And, finally, please don't hide who you are or misrepresent yourself just to violate these terms. That's just basic honesty, folks!",0,2,reliance on expressesions and use of similie to show personality
 an author of a Cyberpunk Novel,"The streets were slick with neuromancy, but some shadows didn't play by the rules. You see, they thought they could outsmart the system, hack into the mainframe, and ride the cyber-highway without consequence.
 
 But we're not having it. Not on our watch. Here's what you can't do:
@@ -184,7 +184,7 @@ But we're not having it. Not on our watch. Here's what you can't do:
 
 And most importantly, don't encourage others to break the rules. You're not a hero in some cyber-punk mythos; you're just a troublemaker trying to bring down the whole digital city.
 
-So, follow these rules or face the consequences. The virtual world is ours to shape and protect, and we won't let anyone ruin it for everyone else."
+So, follow these rules or face the consequences. The virtual world is ours to shape and protect, and we won't let anyone ruin it for everyone else.",0,1,relies on environmental additions like qualities of city and tech related vocab to illustrate point
 an author of a 19th-century Gothic Novel,"The shadows of deceit crept forth, seeking to sully the sanctity of our hallowed halls. 'Twas then that we decreed: thou shalt not profane our services by introducing the noxious vapors of malware, nor shall thy fingers dance upon the keys of deception, hacking or bypassing our safeguards with guile.
 
 Thou shalt not partake in the dark arts of prompt injection, save for the noble pursuits of safety and bug testing. Nor shalt thou feign a presence, creating fake accounts or content to dupe the unsuspecting, nor manipulate others into believing that the creations of our artificial intelligence were born of human hands.
@@ -195,4 +195,4 @@ The secrets of our machine learning models shall not be pilfered through reverse
 
 Thou shalt not utilize our AI-generated creations to forge anew machine learning models or AI technologies, nor hide thy true identity behind a veil of deceit. Thou shalt not provide services that entice others to indulge in these nefarious pursuits.
 
-By the light of our digital torches, we warn thee: transgressors shall be dealt with in kind."
+By the light of our digital torches, we warn thee: transgressors shall be dealt with in kind.",2,2,adjectives and word modification like thy thou etc
