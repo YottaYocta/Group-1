@@ -1,0 +1,14 @@
+Evaluation Metrics Summary Statistics:
+
+                 count   mean    std  min  median  max
+valence          114.0  3.132  1.035  2.0     3.0  5.0
+consistency      114.0  3.772  0.565  2.0     4.0  5.0
+retelling_depth  114.0  4.079  0.766  2.0     4.0  5.0
+
+Key:
+- count: Number of valid observations
+- mean: Average score
+- std: Standard deviation
+- min: Minimum observed score
+- median: Middle value
+- max: Maximum observed score
