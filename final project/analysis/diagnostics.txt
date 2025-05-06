@@ -1,0 +1,14 @@
+Original records: 119
+Valid records after cleaning: 114
+Dropped records: 5
+
+Missing values (pre-cleaning):
+num_characters     0
+num_settings       0
+valence            5
+consistency        5
+retelling_depth    5
+
+Constant columns (excluded from analysis):
+['error']
+Unhashable columns (excluded): ['reasoning', 'characters', 'environment']
